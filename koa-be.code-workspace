@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"favorites.groups": [
+			"Default",
+			"Server Internal"
+		],
+		"favorites.currentGroup": "Server Internal",
+		"favorites.sortOrder": "DESC",
+		"favorites.resources": [
+			{
+				"filePath": "src\\internal\\server-custom-middlewares.ts",
+				"group": "Server Internal"
+			},
+			{
+				"filePath": "src\\internal\\server-middlewares.ts",
+				"group": "Server Internal"
+			},
+			{
+				"filePath": "src\\internal\\server-router.ts",
+				"group": "Server Internal"
+			},
+			{
+				"filePath": "src\\api\\user\\controller\\user.controller.ts",
+				"group": "Server Internal"
+			},
+			{
+				"filePath": "src\\api\\user\\service\\user.service.ts",
+				"group": "Server Internal"
+			},
+			{
+				"filePath": "src\\internal\\pg-connection.ts",
+				"group": "Server Internal"
+			},
+			{
+				"filePath": "src\\server.ts",
+				"group": "Server Internal"
+			},
+			{
+				"filePath": "src\\internal\\pg-connection-impl.ts",
+				"group": "Server Internal"
+			}
+		]
+	}
+}
